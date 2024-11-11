@@ -1,2 +1,6 @@
 are you see me
+<<<<<<< HEAD
 okay
+=======
+ok
+>>>>>>> second-branch
